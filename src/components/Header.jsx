@@ -54,7 +54,7 @@ const Header = () => {
           <Link to="/">
             <picture className="site-logo">
               <source media="(max-width: 768px)" srcSet="/Logo/Icon.png" />
-              <img src="/Logo/Logo%20without%20Border.png" alt="MotoMax EV" />
+              <img src="/Logo/Logo.png" alt="MotoMax EV" />
             </picture>
           </Link>
         </div>
